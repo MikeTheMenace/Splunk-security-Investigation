@@ -18,8 +18,10 @@ Cloud accounts are created to allow remote users to be able to access on-premise
 - Impossible Travel between IPs which one is registered in the second image where one IP is registered in Australia while the other is in Singapore
 - Alert classified as TruePositive
 - Activity status marked as Resolved
+  
   ## Reccomendations
-   -MFA Trigger for unfamilia location.
+
+  -MFA Trigger for unfamilia location.
   -Adopt digital certificates for authenticating devices.
   - 
   
