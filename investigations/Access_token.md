@@ -17,3 +17,8 @@ source="m365_defender_security_alerts.log" host="Michael" index="std_23150413" s
 
 ## Screenshot
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/bdb77934-787d-4994-b3eb-6848a713fad5" />
+
+## Reccomendations
+a) Principle of LEast priviledge.
+
+b) Digitally signed access to LSASS
